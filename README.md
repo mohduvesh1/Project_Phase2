@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# backend
-=======
-testing
->>>>>>> 51a8253 (Initial Commit)
+testing commands
+testing 1
+testing 2
+testing 3
