@@ -1,5 +1,3 @@
-testing commands
-testing 1
-testing 2
-testing 3
-testing is going to end
+# A NEW START
+
+second phase has begun now
